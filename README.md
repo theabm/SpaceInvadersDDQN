@@ -24,7 +24,7 @@ from the termminal line, run:
 
 The roms for space invaders are found under Utils. The link with all the roms from atari can be found in the python notebook.
 
-# Code
+# Code Folder
 Although the code was initially run in google colab, it didnt have enough RAM to run over 400 episodes (with 1 million transitions stored in memory).
 To be able to run in colab for more than 400 episodes, decreasing the size of the experience replay memory is highly beneficial.
 
@@ -36,10 +36,10 @@ Be careful of the absolute paths where the checkpoints are saved for the memory 
 
 # Run
 
-To run, either run the google colab ensuring that the folder structure is similar as outlined in the notebook. 
+To run, either run the notebook in google colab ensuring that the folder structure is as outlined in the notebook. 
 Alternatively, using a local maching simply run using:
 
-python3 DQN.py 
+  - python3 DQN.py 
 
 # Results
 
