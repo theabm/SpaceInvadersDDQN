@@ -10,17 +10,17 @@ The notebook for the code can be found under the name 'AtariRLProject.ipynb' and
 
 from the termminal line, run:
 
-  pip3 install gym
+  - pip3 install gym
 
-  pip3 install pytorch
+  - pip3 install pytorch
 
-  pip3 install scikit-image
+  - pip3 install scikit-image
 
-  pip3 install numpy
+  - pip3 install numpy
 
-  pip3 install atary_py
+  - pip3 install atary_py
 
-  pip3 install gym[atari]
+  - pip3 install gym[atari]
 
 The roms for space invaders are found under Utils. The link with all the roms from atari can be found in the python notebook.
 
