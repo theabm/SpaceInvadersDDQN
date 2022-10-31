@@ -43,5 +43,8 @@ Alternatively, using a local maching simply run using:
 
 # Results
 
-The results can be found in the results folder. They are also outline in the notebook. 
+The numerical results can be downloaded from the results folder. 
 
+They are also shown in the notebook in the final graph. 
+
+![image](./Results/resultsImage.png)
